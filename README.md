@@ -4,6 +4,8 @@
 A voice-activated chatbot built with Streamlit, powered by the [Mistral 7B Instruct](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) model via Together API and integrated with Google's Speech Recognition.
 
 ---
+![Screenshot 2025-04-22 164217](https://github.com/user-attachments/assets/77767167-1cc3-4ae5-8485-fb70f8c0f309)
+
 
 ## 🌟 Features
 
@@ -14,17 +16,11 @@ A voice-activated chatbot built with Streamlit, powered by the [Mistral 7B Instr
 
 ---
 
-## 🚀 Installation
-
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/basi-voice-chatbot.git
-   cd basi-voice-chatbot
-2.**Install dependencies**
+**Install dependencies**
 ```bash
 pip install streamlit requests SpeechRecognition pyaudio
 ```
-3.**Run the app**
+**Run the app**
 
 ```bash
 streamlit run chatbot.py
